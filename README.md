@@ -1,6 +1,6 @@
 # Double Inverted Pendulum (DIP) modelling
 ------------------------------------------
-
+## Solved using the [do-mpc](https://github.com/do-mpc/do-mpc) package
 ![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/anim_dip.gif)
 
 ------------------------------------------
