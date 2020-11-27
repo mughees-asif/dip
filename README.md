@@ -1,7 +1,7 @@
 # Double Inverted Pendulum (DIP) modelling
 ------------------------------------------
 
-
+![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/anim_dip.gif)
 
 ------------------------------------------
 ## Environment Setup
