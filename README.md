@@ -12,4 +12,4 @@
 * Open terminal and execute: `git clone git@github.com:mughees-asif/dip.git`
 * Install the environment requirements in the same directory through the installed miniconda terminal: pip install do-mpc
 * Open this notebook through the miniconda terminal: `jupyter notebook`
-* You should now be set-up to run this example.
+* You should now be set-up to run this example
