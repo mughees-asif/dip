@@ -2,9 +2,9 @@
 
 ## Solved using the [do-mpc](https://github.com/do-mpc/do-mpc) package
 
-![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/media/dip.gif)
-------------------------------------------
 ![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/media/anim_dip.gif)
+------------------------------------------
+![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/media/dip.gif)
 ------------------------------------------
 ## Environment Setup
 
