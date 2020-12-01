@@ -1,5 +1,10 @@
 # Double Inverted Pendulum (DIP) modelling
 
+| Topic | Code | 
+| ------------- | ------------- |
+| Derivation using SymPy | [:memo:](https://github.com/mughees-asif/leetcode-solutions#5-easy-collection-green_book) |
+| Solved using do-mpc | [:memo:](https://github.com/mughees-asif/leetcode-solutions#5-easy-collection-green_book) | 
+
 ## Solved using the [do-mpc](https://github.com/do-mpc/do-mpc) package
 
 ![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/media/anim_dip.gif)
