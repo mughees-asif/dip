@@ -1,11 +1,13 @@
 # Double Inverted Pendulum (DIP) modelling
 
-| Topic | Code | 
-| ------------- | ------------- |
-| Derivation of the dynamics using SymPy | [:memo:](https://github.com/mughees-asif/dip/blob/master/dip-equations-of-motion.ipynb) |
-| Solved using the [do-mpc](https://github.com/do-mpc/do-mpc) | [:memo:](https://github.com/mughees-asif/dip/blob/master/double-inverted-pendulum-do_mpc.ipynb) | 
+## Dynamics of a DIP
 
-## Solved using the  package
+| Package | Purpose | Code | 
+| ------------- | ------------- |
+| SymPy | Deriving the dynamics of the system | [:memo:](https://github.com/mughees-asif/dip/blob/master/dip-equations-of-motion.ipynb) |
+| [do-mpc](https://github.com/do-mpc/do-mpc) | Solving the Euler-Lagrangian equations | [:memo:](https://github.com/mughees-asif/dip/blob/master/double-inverted-pendulum-do_mpc.ipynb) | 
+
+## Sample simulations
 
 ![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/media/anim_dip.gif)
 ------------------------------------------
