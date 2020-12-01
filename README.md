@@ -14,7 +14,7 @@
 
 | Package | Purpose | Code | 
 | ------------- | ------------- | ------------- |
-| SymPy | Deriving the dynamics of the system | [:memo:](https://github.com/mughees-asif/dip/blob/master/dip-equations-of-motion.ipynb) |
+| [SymPy](https://www.sympy.org/en/index.html) | Deriving the dynamics of the system | [:memo:](https://github.com/mughees-asif/dip/blob/master/dip-equations-of-motion.ipynb) |
 | [do-mpc](https://github.com/do-mpc/do-mpc) | Solving the Euler-Lagrangian equations | [:memo:](https://github.com/mughees-asif/dip/blob/master/double-inverted-pendulum-do_mpc.ipynb) | 
 
 ## Sample simulations
