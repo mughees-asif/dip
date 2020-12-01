@@ -2,10 +2,10 @@
 
 | Topic | Code | 
 | ------------- | ------------- |
-| Derivation using SymPy | [:memo:](https://github.com/mughees-asif/leetcode-solutions#5-easy-collection-green_book) |
-| Solved using do-mpc | [:memo:](https://github.com/mughees-asif/leetcode-solutions#5-easy-collection-green_book) | 
+| Derivation of the dynamics using SymPy | [:memo:](https://github.com/mughees-asif/dip/blob/master/dip-equations-of-motion.ipynb) |
+| Solved using the [do-mpc](https://github.com/do-mpc/do-mpc) | [:memo:](https://github.com/mughees-asif/dip/blob/master/double-inverted-pendulum-do_mpc.ipynb) | 
 
-## Solved using the [do-mpc](https://github.com/do-mpc/do-mpc) package
+## Solved using the  package
 
 ![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/media/anim_dip.gif)
 ------------------------------------------
