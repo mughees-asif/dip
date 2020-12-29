@@ -9,6 +9,7 @@
 * Install the environment requirements in the same directory through the Miniconda terminal: `pip install do-mpc`
 * Open this notebook through the Miniconda terminal: `jupyter notebook`
 * You should now be set-up to run this example
+* For more information, check out [this]().
 
 ## Dynamics of a DIP
 
