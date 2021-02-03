@@ -1,26 +1,15 @@
-# Double Inverted Pendulum (DIP) modelling
+# Inverted Double Pendulum training with Proximal Policy Optimisation (PPO)
 
 ## Environment Setup
 
 * Install Miniconda: https://docs.conda.io/en/latest/miniconda.html
-* Install ImageMagick Display: https://imagemagick.org/script/download.php
 * Navigate to where you want to store the repository
 * Open terminal: `git clone git@github.com:mughees-asif/dip.git`
-* Install the environment requirements in the same directory through the Miniconda terminal: `pip install do-mpc`
+* Install the environment requirements in the same directory through the Miniconda terminal: `pip install sympy`
 * Open this notebook through the Miniconda terminal: `jupyter notebook`
 * You should now be set-up to run this example
 * For more information, check out [this](https://github.com/mughees-asif/dip/blob/master/project.pdf)
 
-## Dynamics of a DIP
+## [Dynamics]()
 
-| Package | Purpose | Code | 
-| ------------- | ------------- | ------------- |
-| [SymPy](https://www.sympy.org/en/index.html) | Deriving the dynamics of the system | [:memo:](https://github.com/mughees-asif/dip/blob/master/dip-equations-of-motion.ipynb) |
-| [do-mpc](https://github.com/do-mpc/do-mpc) | Solving the Euler-Lagrangian equations | [:memo:](https://github.com/mughees-asif/dip/blob/master/double-inverted-pendulum-do_mpc.ipynb) | 
 
-## Sample simulations
-
-![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/media/anim_dip.gif)
-------------------------------------------
-![DIP_Example](https://raw.githubusercontent.com/mughees-asif/dip/master/media/dip.gif)
-------------------------------------------
