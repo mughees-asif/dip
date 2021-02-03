@@ -12,4 +12,9 @@
 
 ## [Dynamics](https://github.com/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)
 
+<p align="center">
+    <img height=500 src="images/dip_fbd.png">
+</p>
+
+
 
