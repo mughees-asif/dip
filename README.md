@@ -1,5 +1,7 @@
 # Inverted Double Pendulum training with Proximal Policy Optimisation (PPO)
 
+Note: Please view this workbook [here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb), as GitHub has an ongoing problem rendering Jupyter Notebooks.
+
 ## Environment Setup
 
 * Install Miniconda: https://docs.conda.io/en/latest/miniconda.html
