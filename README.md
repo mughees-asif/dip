@@ -12,6 +12,12 @@ Note: Please view this workbook [here](https://nbviewer.jupyter.org/github/mughe
 * You should now be set-up to run this example
 * For more information, check out [this](https://github.com/mughees-asif/dip/blob/master/project.pdf)
 
+## [Overview](https://github.com/mughees-asif/dip/blob/master/project.pdf)
+
+<p align="center">
+    <img height=350 src="images/ai_gif.gif">
+</p>
+
 ## [Dynamics](https://github.com/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)
 
 <p align="center">
