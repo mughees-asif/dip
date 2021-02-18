@@ -19,7 +19,7 @@ Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mug
 ## [Overview](https://github.com/mughees-asif/dip/blob/master/images/poster.png)
 
 <p align="center">
-    <img height=750 src="images/poster.png">
+    <img height=650 src="images/poster.png">
 </p>
 
 
