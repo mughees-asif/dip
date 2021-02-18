@@ -16,10 +16,10 @@ Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mug
 * You should now be set-up to run this example
 * For more information, check out [this](https://github.com/mughees-asif/dip/blob/master/project.pdf)
 
-## [Overview](https://github.com/mughees-asif/dip/blob/master/project.pdf)
+## [Overview](https://github.com/mughees-asif/dip/blob/master/images/poster.png)
 
 <p align="center">
-    <img height=350 src="images/poster.png">
+    <img height=500 src="images/poster.png">
 </p>
 
 ## [Dynamics](https://github.com/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)
