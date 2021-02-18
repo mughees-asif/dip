@@ -1,6 +1,10 @@
 # Inverted Double Pendulum training with Proximal Policy Optimisation (PPO)
 
-Note: Please view this workbook [here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb), as GitHub has an ongoing problem rendering Jupyter Notebooks.
+<p align="center">
+    <img height=350 src="images/ai_gif.gif">
+</p>
+
+Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**, as GitHub has an ongoing problem rendering Jupyter Notebooks.
 
 ## Environment Setup
 
@@ -15,7 +19,7 @@ Note: Please view this workbook [here](https://nbviewer.jupyter.org/github/mughe
 ## [Overview](https://github.com/mughees-asif/dip/blob/master/project.pdf)
 
 <p align="center">
-    <img height=350 src="images/ai_gif.gif">
+    <img height=350 src="images/poster.png">
 </p>
 
 ## [Dynamics](https://github.com/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)
