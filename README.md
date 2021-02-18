@@ -19,13 +19,7 @@ Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mug
 ## [Overview](https://github.com/mughees-asif/dip/blob/master/images/poster.png)
 
 <p align="center">
-    <img height=500 src="images/poster.png">
-</p>
-
-## [Dynamics](https://github.com/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)
-
-<p align="center">
-    <img height=350 src="images/dip_fbd.png">
+    <img height=750 src="images/poster.png">
 </p>
 
 
