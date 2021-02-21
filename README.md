@@ -11,7 +11,8 @@ Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mug
 * Install Miniconda: https://docs.conda.io/en/latest/miniconda.html
 * Navigate to where you want to store the repository
 * Open terminal: `git clone git@github.com:mughees-asif/dip.git`
-* Install the environment requirements in the same directory through the Miniconda terminal: `pip install sympy`
+* Create new environment in the same directory through the Miniconda terminal: `conda create -n <ENV_NAME> python sympy` 
+* Install *PyTorch*: https://pytorch.org/get-started/locally/
 * Open this notebook through the Miniconda terminal: `jupyter notebook`
 * You should now be set-up to run this example
 * For more information, check out [this](https://github.com/mughees-asif/dip/blob/master/project.pdf)
