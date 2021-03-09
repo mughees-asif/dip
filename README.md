@@ -11,7 +11,7 @@ Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mug
 * Install Miniconda: https://docs.conda.io/en/latest/miniconda.html
 * Navigate to where you want to store the repository
 * Open terminal: `git clone git@github.com:mughees-asif/dip.git`
-* Create new environment [enter custom name instead of <ENV_NAME>] in the same directory through the Miniconda terminal: `conda create -n <ENV_NAME> python sympy` 
+* Create new environment [enter custom name instead of <ENV_NAME>] in the same directory through the Miniconda terminal: `conda create -n <ENV_NAME> python sympy numpy matplotlib` 
 * Install *PyTorch*: https://pytorch.org/get-started/locally/
 * Install Jupyter Notebook: `conda install -c conda-forge notebook`
 * Open this notebook through the Miniconda terminal: `jupyter notebook`
