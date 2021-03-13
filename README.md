@@ -1,4 +1,6 @@
-# Inverted Double Pendulum training with Proximal Policy Optimisation (PPO)
+# Third-year Thesis Project
+
+## Inverted Double Pendulum training with Proximal Policy Optimisation (PPO)
 
 <p align="center">
     <img height=350 src="images/ai_gif.gif">
