@@ -21,10 +21,10 @@ Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mug
 * **For more information, check out [this](https://github.com/mughees-asif/dip/blob/master/project.pdf)**
 * Any problems: [email me](mailto:mughees460@gmail.com)
 
-## [Overview](https://github.com/mughees-asif/dip/blob/master/images/poster.png)
+## [Overview](https://github.com/mughees-asif/dip/blob/master/images/poster.jpg)
 
 <p align="center">
-    <img height=650 src="images/poster.png">
+    <img height=650 src="images/poster.jpg">
 </p>
 
 
