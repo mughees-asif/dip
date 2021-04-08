@@ -3,7 +3,7 @@
 ## Inverted Double Pendulum training with Proximal Policy Optimisation (PPO)
 
 <p align="center">
-    <img height=350 src="https://i.gifer.com/Gvlw.gif">
+    <img height=350 src="/images/idp.gif">
 </p>
 
 Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**, as GitHub has an ongoing problem rendering Jupyter Notebooks.
