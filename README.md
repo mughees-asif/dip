@@ -13,7 +13,7 @@
 * Install Miniconda: https://docs.conda.io/en/latest/miniconda.html
 * Open terminal: `git clone git@github.com:mughees-asif/dip.git`
 * Create new environment [enter custom name instead of <ENV_NAME>] in the same directory through the Miniconda terminal: `conda create -n <ENV_NAME> python sympy numpy matplotlib` 
-* Install *PyTorch*: https://pytorch.org/get-started/locally/
+* Install `PyTorch`: https://pytorch.org/get-started/locally/
 * Install Jupyter Notebook: `conda install -c conda-forge notebook`
 * Navigate to the environment directory & open this notebook through the Miniconda terminal: `jupyter notebook`
 * You should now be set-up to run this example
