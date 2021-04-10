@@ -1,12 +1,12 @@
 # Third-year Thesis
 
-## Inverted Double Pendulum training with Proximal Policy Optimisation (PPO)
+## Inverted Double Pendulum stabilisation with Proximal Policy Optimisation (PPO)
 
 <p align="center">
     <img height=350 src="/images/idp.gif">
 </p>
 
-Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**, as GitHub has an ongoing problem rendering Jupyter Notebooks.
+### Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**, as GitHub has an ongoing problem rendering Jupyter Notebooks.
 
 ## Environment Setup
 
