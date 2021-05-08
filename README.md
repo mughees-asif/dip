@@ -1,12 +1,16 @@
 # Third-year Thesis
 
-## Inverted Double Pendulum stabilisation with Proximal Policy Optimisation (PPO)
+## Inverted Double Pendulum stabilisation with Proximal Policy Optimisation (PPO) Control System
 
 <p align="center">
     <img height=350 src="/images/idp.gif">
 </p>
 
-### Note: Please view this workbook **[here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**, as GitHub has an ongoing problem rendering Jupyter Notebooks.
+## Notes 
+
+* Please view this workbook **[here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**, as GitHub has an ongoing problem rendering Jupyter Notebooks.
+* To read the accompanying written evaluation, please see **[this](https://drive.google.com/file/d/1cvxC5QPPS9X9DEcnlZfgxMtREl2IGdMo/)**.
+* For a quick overview, check out **[this](https://github.com/mughees-asif/dip/blob/master/project.pdf)**.
 
 ## Environment Setup
 
@@ -17,13 +21,12 @@
 * Install Jupyter Notebook: `conda install -c conda-forge notebook`
 * Navigate to the environment directory & open this notebook through the Miniconda terminal: `jupyter notebook`
 * You should now be set-up to run this example
-* **For more information, check out [this](https://github.com/mughees-asif/dip/blob/master/project.pdf)**
 * Any problems: [email me](mailto:mughees460@gmail.com)
 
-## [Overview](https://github.com/mughees-asif/dip/blob/master/images/poster.jpg)
+## [Project Poster](https://github.com/mughees-asif/dip/blob/master/images/poster.jpg)
 
 <p align="center">
-    <img height=650 src="images/poster.jpg">
+    <img height=600 src="images/poster.jpg">
 </p>
 
 
