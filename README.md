@@ -8,7 +8,7 @@
 
 ## Notes 
 
-* Please view this workbook **[here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**, as GitHub has an ongoing problem rendering Jupyter Notebooks.
+* GitHub has an ongoing problem rendering Jupyter Notebooks. Please view the final notebook version **[here](https://nbviewer.jupyter.org/github/mughees-asif/dip/blob/master/deep-learning-dip.ipynb)**.
 * To read the accompanying written evaluation, please see **[this](https://drive.google.com/file/d/1cvxC5QPPS9X9DEcnlZfgxMtREl2IGdMo/)**.
 * For a quick overview, check out **[this](https://github.com/mughees-asif/dip/blob/master/project.pdf)**.
 
