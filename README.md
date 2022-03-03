@@ -1,5 +1,3 @@
-# Third-year Thesis
-
 ## Inverted Double Pendulum stabilisation with Proximal Policy Optimisation (PPO) Control System
 
 <p align="center">
