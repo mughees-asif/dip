@@ -1,4 +1,4 @@
-## Inverted Double Pendulum stabilisation with Proximal Policy Optimisation (PPO) Control System
+## Deep Reinforcement Learning for Robotic Systems
 
 <p align="center">
     <img height=350 src="/images/idp.gif">
